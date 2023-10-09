@@ -70,6 +70,6 @@ public class Main {
         b = 80;
         boolean a1 = (a < 50) && (a < b);
         System.out.println(a1);
-        //1235
+        //1235321213321
     }
 }
