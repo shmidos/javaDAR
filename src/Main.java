@@ -70,6 +70,59 @@ public class Main {
         b = 80;
         boolean a1 = (a < 50) && (a < b);
         System.out.println(a1);
-        //1235321213321
+
+        /* 5.1 Напишите программу, чтобы проверить значения длины и ширины прямоугольника
+        и определить, является ли он квадратным или нет*/
+        int length = 15;
+        int width = 10;
+
+        if (length == width) {
+            System.out.println("Прямоугольник является квадратным.");
+        } else {
+            System.out.println("Прямоугольник не является квадратным.");
+        }
+
+        /*5.2 Магазин предоставит скидку в 10%, если стоимость купленного товара будет больше 5000.
+        Если стоимость товара ниже 5000, то стоимость остается без изменений. Вычислите и выведите итоговую
+        стоимость покупки для пользователя.*/
+
+        double cost = 5555;
+        if (cost > 5000) {0
+            double discount = cost * 0.10;
+            cost -= discount;
+            System.out.println("Скидка в размере 10% предоставлена.");
+        } else {
+            System.out.println("Скидка не предоставлена");
+        }
+        System.out.println("Итоговая стоимость покупки: " + cost);
+
+        /* 5.3 В университете существуют следующие правила для системы оценок:
+        Ниже 25 - F
+        От 25 до 45 - E
+        От 45 до 50 - D
+        От 50 до 60 - C
+        От 60 до 80 - B
+        Выше 80 - A
+        Создайте переменную grade и напечатайте в консоль соответствующую оценку в зависимости от значения переменной.*/
+
+        int grade = 80;
+        if (grade < 25) {
+            System.out.println("Оценка: F");
+        } else if (grade >= 25 && grade < 45) {
+            System.out.println("Оценка: E");
+        } else if (grade >= 45 && grade < 50) {
+            System.out.println("Оценка: D");
+        } else if (grade >= 50 && grade < 60) {
+            System.out.println("Оценка C");
+        } else if (grade >= 60 && grade < 80) {
+            System.out.println("Оценка: B");
+        } else if (grade >= 80) {
+            System.out.println("Оценка: A");
+        }
+
+
+        boolean x = true;
+        boolean y = false;
+        System.out.println(x && y);
     }
 }
