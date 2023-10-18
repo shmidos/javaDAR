@@ -1,33 +1,0 @@
-
-D
-java:S1121!".Extract the assignment out of this expression.(æ°–›
-0
-java:S1220""Move this file to a named package.
-K
-java:S1854"5Remove this useless assignment to local variable "x".(†»ºµ
-?	java:S106"+Replace this use of System.out by a logger.(Øƒ‰B
-@	java:S106"+Replace this use of System.out by a logger.(û¯Ì§
-@	java:S106"+Replace this use of System.out by a logger.(ØÖ·à
-E	java:S106"+Replace this use of System.out by a logger.(ò¦ ûÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(ÀËÇ±
-?	java:S106"+Replace this use of System.out by a logger.(‰‡‘'
-?	java:S106"+Replace this use of System.out by a logger.(ä•é^
-@	java:S106"+Replace this use of System.out by a logger.(†»ºµ
-E	java:S106"+Replace this use of System.out by a logger.(óºúÿÿÿÿ
-<
-java:S1481 "&Remove this unused "e" local variable.(ê¯¢´
-@	java:S106!"+Replace this use of System.out by a logger.(æ°–›
-@	java:S106$"+Replace this use of System.out by a logger.(™’®ì
-@	java:S106'"+Replace this use of System.out by a logger.(Ê¼ø
-E	java:S106*"+Replace this use of System.out by a logger.(„£¢òùÿÿÿÿ
-@	java:S106."+Replace this use of System.out by a logger.(³¿ùÎ
-@	java:S106/"+Replace this use of System.out by a logger.(Á…éÌ
-E	java:S1060"+Replace this use of System.out by a logger.(ªëŠøÿÿÿÿ
-@	java:S1061"+Replace this use of System.out by a logger.(óü’
-@	java:S1062"+Replace this use of System.out by a logger.(á“Âñ
-E	java:S1065"+Replace this use of System.out by a logger.(³Ÿç™ûÿÿÿÿ
-E	java:S1068"+Replace this use of System.out by a logger.(ì¤‚íÿÿÿÿÿ
-?	java:S106;"+Replace this use of System.out by a logger.(÷èè<
-@	java:S106@"+Replace this use of System.out by a logger.(ä­¿ä
-E	java:S106C"+Replace this use of System.out by a logger.(ŸºÏüÿÿÿÿ
-E	java:S106H"+Replace this use of System.out by a logger.(ãŒ¦ıÿÿÿÿ
