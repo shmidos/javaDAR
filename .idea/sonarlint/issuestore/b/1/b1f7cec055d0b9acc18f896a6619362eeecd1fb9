@@ -1,0 +1,59 @@
+
+K
+java:S1121!".Extract the assignment out of this expression.(æ°–›8‡£ø—´1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜»Ãß8ªŒ€˜´1
+7
+java:S1220""Move this file to a named package.8ˆ£ø—´1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Çµí‘8Ô£ø—´1
+R
+java:S1854"5Remove this useless assignment to local variable "x".(†»ºµ8Ô£ø—´1
+F	java:S106"+Replace this use of System.out by a logger.(Øƒ‰B8Õ£ø—´1
+G	java:S106"+Replace this use of System.out by a logger.(û¯Ì§8Õ£ø—´1
+G	java:S106"+Replace this use of System.out by a logger.(ØÖ·à8Õ£ø—´1
+L	java:S106"+Replace this use of System.out by a logger.(ò¦ ûÿÿÿÿ8Õ£ø—´1
+G	java:S106"+Replace this use of System.out by a logger.(ÀËÇ±8Õ£ø—´1
+F	java:S106"+Replace this use of System.out by a logger.(‰‡‘'8Õ£ø—´1
+F	java:S106"+Replace this use of System.out by a logger.(ä•é^8Õ£ø—´1
+G	java:S106"+Replace this use of System.out by a logger.(†»ºµ8Ö£ø—´1
+L	java:S106"+Replace this use of System.out by a logger.(óºúÿÿÿÿ8Ö£ø—´1
+C
+java:S1481 "&Remove this unused "e" local variable.(ê¯¢´8Ö£ø—´1
+G	java:S106!"+Replace this use of System.out by a logger.(æ°–›8Ö£ø—´1
+G	java:S106$"+Replace this use of System.out by a logger.(™’®ì8Ö£ø—´1
+G	java:S106'"+Replace this use of System.out by a logger.(Ê¼ø8Ö£ø—´1
+L	java:S106*"+Replace this use of System.out by a logger.(„£¢òùÿÿÿÿ8Ö£ø—´1
+G	java:S106."+Replace this use of System.out by a logger.(³¿ùÎ8Ö£ø—´1
+G	java:S106/"+Replace this use of System.out by a logger.(Á…éÌ8Ö£ø—´1
+L	java:S1060"+Replace this use of System.out by a logger.(ªëŠøÿÿÿÿ8Ö£ø—´1
+G	java:S1061"+Replace this use of System.out by a logger.(óü’8Ö£ø—´1
+G	java:S1062"+Replace this use of System.out by a logger.(á“Âñ8Ö£ø—´1
+L	java:S1065"+Replace this use of System.out by a logger.(³Ÿç™ûÿÿÿÿ8Ö£ø—´1
+L	java:S1068"+Replace this use of System.out by a logger.(ì¤‚íÿÿÿÿÿ8×£ø—´1
+F	java:S106;"+Replace this use of System.out by a logger.(÷èè<8×£ø—´1
+G	java:S106@"+Replace this use of System.out by a logger.(ä­¿ä8×£ø—´1
+L	java:S106C"+Replace this use of System.out by a logger.(ŸºÏüÿÿÿÿ8×£ø—´1
+L	java:S106H"+Replace this use of System.out by a logger.(ãŒ¦ıÿÿÿÿ8×£ø—´1
+L	java:S106P"+Replace this use of System.out by a logger.(ìõ—Õûÿÿÿÿ8×£ø—´1
+G	java:S106R"+Replace this use of System.out by a logger.(ÊĞÂ­8×£ø—´1
+G	java:S106]"+Replace this use of System.out by a logger.(´ÏÃ©8×£ø—´1
+L	java:S106_"+Replace this use of System.out by a logger.(”ÂúÀıÿÿÿÿ8×£ø—´1
+G	java:S106a"+Replace this use of System.out by a logger.(ÈŞ»Ş8Ø£ø—´1
+L	java:S106n"+Replace this use of System.out by a logger.(íâÆÈùÿÿÿÿ8Ø£ø—´1
+F	java:S106p"+Replace this use of System.out by a logger.(á°Â/8Ø£ø—´1
+G	java:S106r"+Replace this use of System.out by a logger.(¾ğ‰8Ø£ø—´1
+L	java:S106t"+Replace this use of System.out by a logger.(ğ®Ô÷øÿÿÿÿ8Ø£ø—´1
+G	java:S106v"+Replace this use of System.out by a logger.(¹Ê²Ñ8Ø£ø—´1
+G	java:S106x"+Replace this use of System.out by a logger.(µ°í8Ø£ø—´1
+L	java:S106{"+Replace this use of System.out by a logger.(Ûõ‘şÿÿÿÿ8Ø£ø—´1
+H	java:S106€"+Replace this use of System.out by a logger.(ï–Óó8Ù£ø—´1
+H	java:S106‚"+Replace this use of System.out by a logger.(÷üøÿ8Ù£ø—´1
+M	java:S106‰"+Replace this use of System.out by a logger.(Ì˜Øøøÿÿÿÿ8Ù£ø—´1
+M	java:S106‹"+Replace this use of System.out by a logger.(ó¸Ôúøÿÿÿÿ8Ù£ø—´1
+M	java:S106”"+Replace this use of System.out by a logger.(²Úº‚şÿÿÿÿ8Ù£ø—´1
+H	java:S106–"+Replace this use of System.out by a logger.(¬Ğª8Ù£ø—´1
+H	java:S106˜"+Replace this use of System.out by a logger.(ŠƒÌ8Ú£ø—´1
+H	java:S106 "+Replace this use of System.out by a logger.(ï–òë8Ú£ø—´1
+M	java:S106¢"+Replace this use of System.out by a logger.(ÙÃ­ôüÿÿÿÿ8Ú£ø—´1
+H	java:S106¤"+Replace this use of System.out by a logger.(“»Öá8Ú£ø—´1
+M	java:S106¦"+Replace this use of System.out by a logger.(œö›ÿÿÿÿÿ8Ú£ø—´1
