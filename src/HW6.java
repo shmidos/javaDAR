@@ -1,4 +1,5 @@
 import javax.sound.midi.Soundbank;
+import java.sql.SQLOutput;
 
 public class HW6 {
     public static void main(String[] args) {
@@ -99,8 +100,10 @@ public class HW6 {
         int[] numbers1 = {34, 82, 29, 30, 25, 40, 32, 31, 35, 410, 7};
         int n = 3;
         int m = 8;
-        for(int numbers2 : numbers1)
-            for(int i = n; )
+        for (int i = n; i < m; i++) {
+            System.out.print(numbers1[i]+" ");
+        }
+
 
     }
 }
