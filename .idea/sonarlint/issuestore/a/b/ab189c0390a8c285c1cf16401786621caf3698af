@@ -1,0 +1,38 @@
+
+x
+java:S1192j"[Define a constant instead of duplicating this literal "--------------------------" 4 times.(ú•€Ë8§€Àº1
+7
+java:S1220""Move this file to a named package.8»€Àº1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(Çµí‘8ô‰Àº1
+V
+java:S1854."9Remove this useless assignment to local variable "mold2".(è¹Èú8ı‰Àº1
+L	java:S106"+Replace this use of System.out by a logger.(šóÿøÿÿÿÿÿ8ªŠÀº1
+L	java:S106"+Replace this use of System.out by a logger.(´ÎÚ¡ıÿÿÿÿ8²ŠÀº1
+L	java:S106'"+Replace this use of System.out by a logger.(é©Ñ¥úÿÿÿÿ8·ŠÀº1
+L	java:S106)"+Replace this use of System.out by a logger.(°§ÄÎúÿÿÿÿ8¹ŠÀº1
+G
+java:S1481."*Remove this unused "mold2" local variable.(è¹Èú8ÉŠÀº1
+L	java:S1067"+Replace this use of System.out by a logger.(é©Ñ¥úÿÿÿÿ8ÌŠÀº1
+L	java:S1069"+Replace this use of System.out by a logger.(°§ÄÎúÿÿÿÿ8ÎŠÀº1
+G	java:S106J"+Replace this use of System.out by a logger.(ğÌ±8ÑŠÀº1
+G	java:S106L"+Replace this use of System.out by a logger.(©ê­Î8ÓŠÀº1
+L	java:S106]"+Replace this use of System.out by a logger.(şàøÆşÿÿÿÿ8ØŠÀº1
+F	java:S106_"+Replace this use of System.out by a logger.(ã¡‘(8ÛŠÀº1
+L	java:S106h"+Replace this use of System.out by a logger.(ÄÑçÉüÿÿÿÿ8İŠÀº1
+G	java:S106j"+Replace this use of System.out by a logger.(ú•€Ë8ßŠÀº1
+L	java:S106q"+Replace this use of System.out by a logger.(à ŠŠÿÿÿÿÿ8âŠÀº1
+G	java:S106v"+Replace this use of System.out by a logger.(ú•€Ë8ãŠÀº1
+H	java:S106…"+Replace this use of System.out by a logger.(ÄèÏ¹8çŠÀº1
+H	java:S106†"+Replace this use of System.out by a logger.(úó–8êŠÀº1
+H	java:S106ˆ"+Replace this use of System.out by a logger.(ú•€Ë8ëŠÀº1
+M	java:S106˜"+Replace this use of System.out by a logger.(şÁæÿÿÿÿÿ8ğŠÀº1
+H	java:S106™"+Replace this use of System.out by a logger.(òğ‚8òŠÀº1
+H	java:S106›"+Replace this use of System.out by a logger.(ú•€Ë8ôŠÀº1
+H	java:S106·"+Replace this use of System.out by a logger.(ì¸Ùˆ8‡‹Àº1
+Y
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8Œ‹Àº1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8‹Àº1
+ä
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 129 to 64, Complexity from 31 to 14, Nesting Level from 3 to 2, Number of Variables from 49 to 6.(Çµí‘8”‹Àº1
