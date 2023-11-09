@@ -130,6 +130,10 @@ public class HW6_2 {
 
         System.out.println("Минимальное значение: " + minVal);
         System.out.println("Максимальное значение: " + maxVal);
+
+        //Дополнительные задачи
+
+
     }
 }
 

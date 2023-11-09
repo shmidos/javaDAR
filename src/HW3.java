@@ -30,8 +30,8 @@ public class HW3 {
         final double GrAc= 9.8;
         // GrAc = gravitational acceleration
         System.out.println("Ускорение свободного падения = " + GrAc);
-        final String MyHome = "Алматы";
-        System.out.println("Мой родной город " + MyHome);
+        final String myHome = "Алматы";
+        System.out.println("Мой родной город " + myHome);
 
         byte byteVar = 123;
         short shortVar = 12345;
