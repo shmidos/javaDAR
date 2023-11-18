@@ -14,8 +14,10 @@ B
 B
 src/HW7/Task2.java,5\3\53538f3842fdcb49c29c810ae8e182059b22222c
 B
-src/HW7/Task1.java,e\5\e5a673449ebec185cfd38020450e27129d40eca2
+src/HW7/Task1.java,e/5/e5a673449ebec185cfd38020450e27129d40eca2
 N
 src/HW_6_additional_tasks.java,1\6\16f64c3b0db88b2c63ac4b49151c8d05be266c51
 <
 src/HW6.java,a\b\ab189c0390a8c285c1cf16401786621caf3698af
+<
+src/HW4.java,4/b/4b4a8b0c9e848146b1faac143077159e949617d8
