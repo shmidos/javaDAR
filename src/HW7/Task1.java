@@ -21,7 +21,7 @@ public class Task1 {
         if (c < min) {
             min = c;
         }
-
+////
         return min;
     }
 }
