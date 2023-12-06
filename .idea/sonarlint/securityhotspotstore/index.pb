@@ -31,3 +31,11 @@ C
 src/HW9/Square.java,a\9\a9f289d72d1c3424e0112a1112b1924bbad8187b
 H
 src/HW9/Temperature.java,b\b\bb6d1b8a30c36b50a62486e2e26678e0e5db8430
+B
+src/HW9/Outer.java,f\6\f6dcc838c39609754d96241f5d6438450d14fd66
+D
+src/HW9/Vehicle.java,1\c\1cc0077d765639f90525981f7f9d4b99207f2890
+A
+src/HW9/book.java,f\e\fe4c5dd34487421fcaa6feb252be395396ac3498
+A
+src/HW9/Book.java,8\b\8beb0975473889b2f58442792f6a43bb0bfc20de
