@@ -22,8 +22,6 @@ E
 B
 src/HW8/Movie.java,9\7\970fd36e0043ed82021351c2143b2ae01f2bc1ec
 G
-src/HW8/Student8_2.java,0\5\058f4c0c7f508240779d02d5a414c4d5ca0d3f03
-G
 src/HW9/Student8_2.java,8\e\8e8536d4854f1bd6ee387512fffd930a11c58d5f
 I
 src/HW9/StarTriangle.java,d\7\d7b7fa846d689525cc1a600223d4a2e023c37472
@@ -39,3 +37,15 @@ A
 src/HW9/book.java,f\e\fe4c5dd34487421fcaa6feb252be395396ac3498
 A
 src/HW9/Book.java,8\b\8beb0975473889b2f58442792f6a43bb0bfc20de
+F
+src/HW10/Colors10.java,e\0\e07cae7078ec8c04416b5a3a4b1ee693dd750653
+E
+src/HW10/Weekday.java,b\6\b664a72df04d577e88d7c9153a1b12072ed40848
+F
+src/HW10/Abstract.java,f\4\f4024680beeb270079c6b93a4b6c5afb35ad5b7b
+G
+src/HW10/Student10.java,3\3\33fb415aac46e95857ba2a2480ded88aac55a6b1
+I
+src/HW10/StudentHW10.java,0\a\0a750dc1156efb350b65eb507ccff23f6c7d3176
+J
+src/HW10/PhoneBookApp.java,f\b\fbc4cb2cefa2cc2a9001a0383fb801ce09cceccb
