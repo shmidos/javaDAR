@@ -25,3 +25,13 @@ N
 src/HW5.java,e\2\e21db0f82eead223966dc194b4430571740a8613
 B
 src/HW7/Task3.java,b\e\bea65d9b5acc028daded41ad511364b25d4579c4
+D
+src/HW8/Student.java,1\6\16ded5519b5729a12b1762111284e15b3ddb12bb
+E
+src/HW8/Triangle.java,f\8\f897d9a354c7f4fd1bfc27137ecc221726b43981
+F
+src/HW8/Rectangle.java,1\0\107bad08d9eda8111c0d94c3f9e5f636b20b7ad2
+D
+src/HW8/Average.java,2\e\2e2242b56449cf400984722c7de77086ef886dc6
+B
+src/HW8/Movie.java,9\7\970fd36e0043ed82021351c2143b2ae01f2bc1ec
