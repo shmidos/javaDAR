@@ -25,3 +25,19 @@ F
 src/HW10/Colors10.java,e\0\e07cae7078ec8c04416b5a3a4b1ee693dd750653
 I
 src/HW10/ArrayList10.java,7\1\71b86cdeb11ff9f5a0c30029cdfafc090b64d1f2
+F
+src/HW12/ArraySum.java,7\4\74ef196ee5fec772c1aa81b461fc54d46c5adad0
+O
+src/HW12/ReplaceCharacters.java,8\3\83129a5b33f15ef6f9948d40467680ab1a4a3bb4
+K
+src/HW12/SwapVariables.java,a\d\ad72c38833d23a01f951a8174a441cf1f25935d4
+I
+src/HW12/StepsToZero.java,3\d\3da3de48d6d0bacbc9dd93b48845d9daa67c1d8c
+X
+(src/HW12/SimpleArithmeticOperations.java,8\e\8e6395168349cbfd0ee0ba2029aade9e9e545a06
+K
+src/HW12/ShuffleString.java,6\f\6feecbd05e7fba56879ec50cc1eb456726748fc9
+K
+src/HW12/SecondLargest.java,5\e\5eac4f507542be3fe654f699f1cc895a4078ec3f
+M
+src/HW12/PrintOddNumbers.java,5\9\598e6f08bb1301dd602e8bfe849e3fdcc0f675ca

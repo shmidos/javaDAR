@@ -1,7 +1,6 @@
 package HW12;
 public class SwapVariables {
     public static void main(String[] args) {
-        // Пример использования метода
         int a = 5;
         int b = 10;
 
